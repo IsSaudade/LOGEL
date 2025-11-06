@@ -1,0 +1,17 @@
+--extra-index-url https://download.pytorch.org/whl/cu128
+
+# PyTorch 相关的核心包
+torch
+torchvision
+torchaudio
+
+setuptools==57.5.0
+wheel==0.35.1
+numpy==1.24.4
+Cython==0.29.32
+cffi==1.15.0
+lockfile==0.12.2
+gym==0.25.1
+tensorflow==2.11.0
+mujoco-py==2.1.2.14
+baselines==0.1.5
